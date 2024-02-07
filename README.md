@@ -20,16 +20,16 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SultanDash&limit=5&theme=radical&combine_all_yearly_contributions=true)*/ -->
+![](https://github-contributor-stats.vercel.app/api?username=SultanDash&limit=5&theme=radical&combine_all_yearly_contributions=true)*/ 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SultanDash&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- https://gprm.itsvg.in ) -->
